@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.planetitem-wrap {
+  padding: 20px;
+  font-family: 'Roboto';
+  /* width: 70%; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  width: 300px;
+  height: 250px;
+}
+
+.heading {
+  color: #f8fafc;
+  font-size: 24px;
+}
+
+.desc {
+  color: #f1f5f9;
+  font-size: 18px;
+  text-align: center;
+}
